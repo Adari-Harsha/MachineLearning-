@@ -1,2 +1,2 @@
 # MachineLearning-
-All machine learning algorithms without using sklearn
+Machine learning algorithms without using sklearn library 
